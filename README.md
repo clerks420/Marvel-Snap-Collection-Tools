@@ -157,4 +157,10 @@ All game assets, names, and data belong to their respective owners.
 
 ---
 
+## Source Code
+
+The Python source code is located in the `src/` directory.
+
+Most users should download the standalone executable from the Releases page.
+
 
