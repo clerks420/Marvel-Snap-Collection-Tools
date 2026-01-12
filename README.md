@@ -164,3 +164,6 @@ The Python source code is located in the `src/` directory.
 Most users should download the standalone executable from the Releases page.
 
 
+<img width="1052" height="682" alt="Album Completion" src="https://github.com/user-attachments/assets/3c2e5171-dff0-4cbe-8a32-31b87520599a" />
+<img width="1052" height="682" alt="Variant Count" src="https://github.com/user-attachments/assets/0c5abc1b-1737-4631-9f98-3bebc17c079e" />
+<img width="1052" height="682" alt="Mastery Sorting" src="https://github.com/user-attachments/assets/ab57a8af-3254-4025-a2cd-44da019dd0f0" />
